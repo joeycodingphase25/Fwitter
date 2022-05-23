@@ -10,6 +10,7 @@ $ pip install -r requirements.txt
 ## How to launch react app
 ```
 $ cd react-app
+$ npm install
 $ npm start
 ```
 
